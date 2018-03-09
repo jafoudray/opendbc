@@ -40,5 +40,6 @@ BO_ 2024 response: 8 XXX
  SG_ calculated_engine_load : 3|6@1+ (1,0) [0|100] "%" XXX
  SG_ engine_temperature : 1|8@1+ (1,0) [-40|215] "C" XXX
  SG_ engine_rpm : 17|10@1+ (1,0) [0|16383] "rpm" XXX
+ SG_ absolute_barometric_pressure : 2|8@1+ (1,0) [0|255] "kPa" XXX
 
 BO_ 2015 query: 8 XXX
