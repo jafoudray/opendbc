@@ -33,10 +33,10 @@ NS_ :
 
 BS_:
 
-BU_: XXX 
+BU_: XXX
 
 
 BO_ 2024 response: 8 XXX
- SG_ vehicle speed : 0|8@1+ (1,0) [0|255] "km/h" XXX
+ SG_ engine_rpm : 18|12@1- (1,0) [0|16383] "rpm" XXX
 
 BO_ 2015 query: 8 XXX
